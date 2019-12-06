@@ -1,3 +1,7 @@
+*.aux
+*.log
+*.nav
 *.out
-test*
-example*
+*.snm
+*.synctex.gz
+*.toc
