@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575455301 source:d:\资料\作业\大二上\音乐与数学\单旋律\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

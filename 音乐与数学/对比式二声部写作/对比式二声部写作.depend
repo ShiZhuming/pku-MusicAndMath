@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575637805 source:d:\资料\作业\大二上\音乐与数学\对比式二声部写作\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

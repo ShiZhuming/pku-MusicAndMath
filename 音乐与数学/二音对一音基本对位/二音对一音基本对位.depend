@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575538020 source:d:\资料\作业\大二上\音乐与数学\二音对一音基本对位\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
